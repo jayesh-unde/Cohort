@@ -8,6 +8,7 @@ const Grid = () => {
           <div className='col-span-6 bg-amber-700 p-2 rounded-b-md text-amber-50 font-bold mt-1'>Papa</div>
           <div className='col-span-2 bg-amber-900 p-2 rounded-b-md text-amber-50 font-bold mt-1'>Nattu</div>
       </div>
+      <div className=''></div>
     </>
   )
 }
